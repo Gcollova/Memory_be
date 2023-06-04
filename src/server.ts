@@ -22,3 +22,5 @@ app.listen(port, () => {
 });
 
 export default app;
+
+// ENDPOINT BACKEND http://34.253.235.114:8080/
